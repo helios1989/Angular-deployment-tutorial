@@ -433,7 +433,7 @@ module.exports = function (grunt) {
       },
       heroku: {
         options: {
-          remote: 'git@heroku.com:guarded-hamlet-26569.git',
+          remote: 'git@heroku.com:arcane-lake-81202.git',
           branch: 'master',
           tag: pkg.version
         }
