@@ -433,7 +433,7 @@ module.exports = function (grunt) {
       },
       heroku: {
         options: {
-          remote: 'git@heroku.com:tranquil-sea-18668.git',
+          remote: 'git@heroku.com:desolate-earth-55566.git',
           branch: 'master',
           tag: pkg.version
         }
